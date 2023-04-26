@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.469a29ea.css",
+    "main.js": "/portfolio/static/js/main.a3300186.js",
+    "static/media/DarbieScreenshot.PNG": "/portfolio/static/media/DarbieScreenshot.e88785933158a19a4ec1.PNG",
+    "static/media/waterfall.jpg": "/portfolio/static/media/waterfall.eca24e98bb0c9cebb0cd.jpg",
+    "static/media/GlobeScreenshot.PNG": "/portfolio/static/media/GlobeScreenshot.7983a424292af7ceee0f.PNG",
+    "static/media/GatorLogo.png": "/portfolio/static/media/GatorLogo.08e6c9899a69ef829df0.png",
+    "static/media/VoltorbScreenshot.PNG": "/portfolio/static/media/VoltorbScreenshot.fd20f5db812e22ba93ff.PNG",
+    "static/media/TypingScreenshot.PNG": "/portfolio/static/media/TypingScreenshot.e3957f299565601a4a7c.PNG",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.b047813103276ac0aa50.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.469a29ea.css.map": "/portfolio/static/css/main.469a29ea.css.map",
+    "main.a3300186.js.map": "/portfolio/static/js/main.a3300186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469a29ea.css",
+    "static/js/main.a3300186.js"
+  ]
+}
